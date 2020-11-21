@@ -14,7 +14,7 @@ const Nav = () => (
         <Link to="/">LOGO</Link>
       </li>
       <li>
-        <Link to="/slicemasters">SliceMasters</Link>
+        <Link to="/slicemasters">Slice Masters</Link>
       </li>
       <li>
         <Link to="/order">Order</Link>
