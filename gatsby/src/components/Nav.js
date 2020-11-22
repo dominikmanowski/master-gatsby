@@ -9,6 +9,7 @@ const StyledNav = styled.nav`
   }
   ul {
     margin: 0;
+    margin-top: -6rem;
     padding: 0;
     text-align: center;
     list-style: none;
@@ -40,6 +41,9 @@ const StyledNav = styled.nav`
     &:hover {
       color: var(--red);
     }
+    /* &[aria-current='page'] {
+      color: var(--red);
+    } */
   }
 `
 
